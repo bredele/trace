@@ -20,7 +20,7 @@ var trace = require('trace')('peer');
 trace('connection');
 ```
 
-  Trace doesn't provide any decorators and is based on an emitter. You can listen the logs locally or send them to a server:
+  Trace doesn't provide any decorators and is based on an emitter. You can listen the logs locally or send them to a web worker or a server:
 
 ```js
 var trace = require('trace');
