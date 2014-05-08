@@ -1,0 +1,4 @@
+trace
+=====
+
+tiny trace utility
